@@ -1,8 +1,0 @@
-4, Nick, Dexter, 134highburyroadburwood3125australia, 1.0, 90.0, 1.0, 10/02/01, Dr. Smith
-Client, Hi nick :)
-Optometrist, Hi also :)
-
-1, John, Doey, 134highburyroadburwood3125australia, 1.0, 90.0, 1.0, 10/02/01, Dr. Smith
-Client, This is a remark
-Optometrist, Another remark
-
