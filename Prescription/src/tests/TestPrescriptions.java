@@ -14,11 +14,11 @@ class TestPrescriptions {
 	    Prescription p = new Prescription();
 	    //assertEquals(true, p.addPrescription(1, "John", "Doey", "134highburyroadburwood3125australia", 20.0f, 180.0f, 4.0f, "10/02/01", "Dr. Smith"));
 	    
-	    //Test case 1_Test Data 1
+	    //Test case 1_Test Data 2
 	    Prescription p2 = new Prescription();
 	    //assertEquals(true, p2.addPrescription(2, "Peter", "Scott", "134whitehorseroadboxhill3125australia", -20.0f, 0.0f, -4.0f, "10/04/01", "Dr. John"));
 	    
-	    //Test case 1_Test Data 1
+	    //Test case 1_Test Data 3
 	    Prescription p3 = new Prescription();
 	    //assertEquals(true, p3.addPrescription(3, "Lachlan", "Senior", "120Highfieldroadcamberwell3124australia", 0.0f, 0.0f, 0.0f, "22/06/03", "Dr. Scott"));
 
